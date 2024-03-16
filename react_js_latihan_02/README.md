@@ -1,8 +1,20 @@
-# React + Vite
+# Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## React JS Landing Page
 
-Currently, two official plugins are available:
+- React JS
+- Vite
+- Bootstrap
+- react-router-dom
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Halaman Home
+
+![Home](https://github.com/rname97/react_js_project/assets/47927755/53c667a2-a4f3-4bec-a200-91571735180b)
+
+# Halaman Blog
+
+![Blog](https://github.com/rname97/react_js_project/assets/47927755/f58fc46a-8e61-42b0-8b7c-453589b231de)
+
+# Halaman NewsLetter
+
+![Newsletter](https://github.com/rname97/react_js_project/assets/47927755/ad3057d8-9bcf-4810-b6a2-a43385ed62cb)
