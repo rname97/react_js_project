@@ -1,8 +1,7 @@
-# React + Vite
+# Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- React JS : ^18.2.0
+- Vite : ^5.1.6
+- Bootstrap : ^5.3.3
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![screencapture-localhost-5173-2024-03-16-19_44_45](https://github.com/rname97/react_js_project/assets/47927755/2368aa1e-82f3-4427-b9ab-02a97418b033)
